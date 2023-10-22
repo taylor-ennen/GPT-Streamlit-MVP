@@ -99,3 +99,6 @@ if st.button("Generate Lesson Plan") and api_key:
     # Extract and display the lesson plan
     assistant_reply = lesson_plan_response['choices'][0]['message']['content']
     lesson_plan=st.text(assistant_reply.strip())
+
+# Citation for the GitHub repo
+st.markdown("<sub>This app was created by [Taylor Ennen](https://github.com/taylor-ennen/GPT-Streamlit-MVP)</sub>", unsafe_allow_html=True)

@@ -18,8 +18,7 @@ Here is the Chat Conversation used to assist in the prototype. Illustrated in th
 https://chat.openai.com/c/6a55fe17-591d-4819-bab0-74789377815b
 
 **You can find the code in its "final state" here**:
-[Link to repo
-](https://github.com/taylor-ennen/GPT-Streamlit-MVP/blob/main/lesson_plan_streamlit_prototype.py)
+[Direct Link](https://github.com/taylor-ennen/GPT-Streamlit-MVP/blob/main/lesson_plan_streamlit_prototype.py)
 
 ##### My Biased Opinions: 
 
